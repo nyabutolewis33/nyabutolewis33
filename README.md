@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @nyabuto lewis
-- 👀 I’m interested in python programming and java
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me nyabutolewis16@gmail.com
+# 👋 Hi, I’m @nyabuto lewis
+
+## About Me
+- 👀 skills in Python programming,html and css,php using laravel,c,c#,c++ and Java.
+- 🌱 I’m currently learning **Information Technology**.
+- 💞️ I’m looking to collaborate on various **projects**.
+
+## Contact Me
+- 📫 How to reach me: nyabutolewis16@gmail.com
 
 <!---
 nyabutolewis33/nyabutolewis33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
